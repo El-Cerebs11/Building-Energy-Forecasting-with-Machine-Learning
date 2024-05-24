@@ -50,7 +50,3 @@ The primary objective of this project is to predict the monthly energy budget of
 
 #### Conclusion
 This notebook provides a comprehensive approach to forecasting building energy consumption by leveraging historical weather and energy data. The correlation analyses and feature selection steps are crucial in building an effective predictive model, accounting for both linear and non-linear relationships.
-
----
-
-This summary serves as a conclusive overview of the contents and methodologies applied in the notebook, designed for inclusion in a GitHub repository README file.
